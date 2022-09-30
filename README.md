@@ -1,5 +1,5 @@
 
-### Hi there 👋, Muhammete1
+### Hi there 👋, I'm Muhammete1
 #### Software Development
 ![asd](https://user-images.githubusercontent.com/86084785/193048069-63929c17-4f2b-4fe5-9c60-663d15f9c0ad.gif)
 
